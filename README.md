@@ -28,8 +28,6 @@ Software Engineer based in Tokyo, Japan.
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 
 ## Organizations
 - [@kokiyasui-projects](https://github.com/kokiyasui-projects)
