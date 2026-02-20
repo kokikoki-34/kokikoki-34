@@ -1,4 +1,4 @@
-# YASUI Koki (kokikoki-34)
+# YASUI Koki
 
 Software Engineer based in Tokyo, Japan.
 
