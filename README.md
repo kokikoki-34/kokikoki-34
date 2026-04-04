@@ -34,6 +34,7 @@ Software Engineer based in Tokyo, Japan.
 
 ## Links
 
+- [Portfolio](https://kokiyasui.com)
 - [GitHub](https://github.com/kokikoki-34)
 - [Instagram](https://www.instagram.com/kokikoki_34/)
 - [Threads](https://www.threads.net/@kokikoki_34)
